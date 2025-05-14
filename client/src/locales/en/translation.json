@@ -1,0 +1,327 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "services": "Services",
+  "physiotherapy": "Physiotherapy",
+  "gallery": "Gallery",
+  "contact": "Contact",
+  "customer_reviews": "Customer Reviews",
+  "phone": "+49 177 502 40 89",
+  "e-mail": "ajamassage@web.de",
+  "email": "E-mail",
+  "book_appointment": "Book Appointment",
+  "cancel_appointment": "Cancel Appointment",
+  "turkish": "Turkish",
+  "german": "German",
+  "english": "English",
+  "loading": "Loading...",
+  "error": "Error: {{message}}",
+  "duration": "Duration",
+  "minutes": "Minutes",
+  "price": "Price",
+  "fetch_services_error": "Could not fetch services",
+  "fetch_treatments_error": "Could not fetch treatments",
+  "explore_services": "Explore Services",
+  "view_all_services": "View All Services",
+  "physiotherapy_services": "Physiotherapy Services",
+  "view_all_treatments": "View All Treatments",
+  "quick_links": "Quick Links",
+  "terms_and_conditions_link": "Terms & Conditions",
+  "privacy_policy_link": "Privacy Policy",
+  "follow_us": "Follow Us",
+  "footer": "© {{year}} Aja Massage. All rights reserved.",
+  "about_us": "About Us",
+  "who_we_are": "Who We Are",
+  "about_us_text_1": "Our massage salon was established in 2024 in the heart of Cologne. Our mission is to provide our clients with relaxation and renewal, helping them escape the stress of daily life. With our expert therapists and personalized services, we aim to offer you the best experience possible.",
+  "about_us_text_2": "Using natural oils and professional techniques, we support both your physical and mental well-being. With years of experience, we continue to enhance the quality of our services every day.",
+  "contact_us": "Contact Us",
+  "about_section_text": "Our massage salon has been offering relaxation and renewal in Cologne since 2024. With our experienced therapists and personalized services, we are always by your side.",
+  "about_us_image_alt": "Relaxing massage room",
+  "more_info": "More Information",
+  "why_choose_us": "Why Choose Us?",
+  "reason_1": "Experienced and certified therapists",
+  "reason_2": "Wide range of massage and physiotherapy services",
+  "reason_3": "Clean and calming atmosphere",
+  "reason_4": "Personalized treatment plans",
+  "no_services": "No services available at the moment.",
+  "fetch_photos_failed": "Failed to fetch photos",
+  "gallery_image_alt": "Gallery image",
+  "enlarged_photo_alt": "Enlarged gallery photo",
+  "message_failed": "Failed to send message.",
+  "server_unreachable": "Server unreachable. Please try again later.",
+  "message_success": "Your message has been sent successfully!",
+  "name": "Name",
+  "phone_number": "Phone Number",
+  "klasik_masaj": "Classic Massage",
+  "spor_masajı": "Sport Massage",
+  "aromaterapi": "Aromatherapy",
+  "fizyoterapi": "Physiotherapy",
+  "hizmet_secin": "Select Service",
+  "select_service": "Select Service",
+  "note_optional": "Note (Optional)",
+  "message": "Message",
+  "send": "Send",
+  "contact_info": "Contact Information",
+  "address": "Address",
+  "sample_address": "Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Germany",
+  "tel": "Tel",
+  "sample_phone": "+49 177 502 40 89",
+  "full_name": "Full Name",
+  "sample_email": "ajamassage@web.de",
+  "working_hours": "Working Hours",
+  "working_hours_mon_sat": "Mon - Sat: 14:00 - 22:00",
+  "find_us_on_map": "Find Us On Map",
+  "map": "Map",
+  "request_appointment": "Request Appointment",
+  "fetch_reviews_failed": "Failed to fetch reviews.",
+  "rating_comment_required": "Rating and comment are required.",
+  "review_submit_failed": "Failed to submit review.",
+  "review_submitted": "Review submitted successfully! It will be visible after approval.",
+  "share_your_opinion": "Share Your Opinion",
+  "write_your_comment": "Write your comment here...",
+  "submit": "Submit",
+  "approved_reviews": "Approved Reviews",
+  "date": "Date",
+  "no_approved_reviews": "No approved reviews yet.",
+  "please_enter_cancel_code": "Please enter your cancellation code.",
+  "cancel_code": "Cancellation Code",
+  "cancel_code_placeholder": "Enter your cancellation code",
+  "cancel_booking": "Cancel Booking",
+  "booking_cancelled": "Your booking has been cancelled successfully!",
+  "cancel_failed": "Cancellation failed. Please check your code and try again.",
+  "stats_title": "Our Achievements",
+  "service": "Services Provided",
+  "happy_customers": "Happy Customers",
+  "staff": "Qualified Staff",
+  "years_experience": "Years of Experience",
+  "no_treatments": "No Treatments",
+  "treatments": "Physiotherapy",
+
+  "view_all_photos": "View All Photos",
+  "terms_and_conditions": {
+    "title": "Aja Massage General Terms and Conditions",
+    "effective_date": "(As of January 1, 2025)",
+    "sections": {
+      "1": {
+        "title": "Scope",
+        "content": "All services provided by Aja Massage are offered exclusively based on these General Terms and Conditions. These General Terms and Conditions apply to all declarations of intent, contracts, and legal transactions or similar legal actions concluded between us and our customers or other contractual partners. Terms and conditions differing from the content of our General Terms and Conditions are not valid. Any counter-confirmation from a customer or other contractual partner referring to their own terms and conditions is expressly rejected. These will not become part of any agreement, contract, or basis for services provided by us unless explicitly confirmed in writing. In addition to these general terms, the practice regulations (see practice notice) become part of the contract. We reserve the right to enforce our house rules in case of repeated violations or disregard of the practice regulations."
+      },
+      "2": {
+        "title": "Medical Services",
+        "content": "The medically prescribed treatment for the aforementioned patient is carried out in accordance with recognized professional standards under the Patient Rights Act."
+      },
+      "3": {
+        "title": "Wellness Treatments",
+        "content": "Wellness treatments applied solely for relaxation, revitalization, and health maintenance do not constitute medical services or treatments. If health issues requiring treatment exist or are suspected, it is recommended that the customer consults a doctor before receiving a massage."
+      },
+      "4": {
+        "title": "Customer's Obligation to Provide Information",
+        "content": "Known conditions such as allergies, physical limitations, pressure-sensitive skin, pregnancy, or acute illnesses—particularly cardiovascular diseases, vascular diseases, infectious diseases, febrile illnesses, inflammatory processes, ulcers, hemophilia (bleeding disorders), arteriosclerosis, dermatoses, and open wounds—must be reported to Oase des Wohlfühls GmbH staff before treatment begins."
+      },
+      "5": {
+        "title": "Disclaimer",
+        "content": "Despite professional application, we are exempt from liability for indirect damages resulting from the customer concealing exclusionary reasons. The same applies to damages arising from an exclusionary reason unknown to the customer and not recognizable by us. This disclaimer does not include damages to life, body, or health due to negligent breach of duty by Aja Massage, its legal representatives, or assistants, nor other damages due to grossly negligent breach of duty by Aja Massage, its legal representatives, or assistants."
+      },
+      "6": {
+        "title": "Appointments",
+        "content": "Appointments can be made at our office, via email, WhatsApp, or telephone. Appointment requests via email or WhatsApp are considered confirmed only upon Aja Massage sending a confirmation email/WhatsApp and the customer confirming it. Agreement on an appointment establishes a legally binding contract between the parties. Late arrival to an agreed appointment may reduce treatment time in the interest of subsequent customers. If the customer requests a shortened treatment time during the appointment, no price reduction is possible; the full treatment fee as per the reservation must be paid."
+      },
+      "7": {
+        "title": "Appointment Cancellations",
+        "content": "Appointments that cannot be attended must be canceled at least 24 hours in advance. If this period is not adhered to, Aja Massage is entitled to charge a cancellation fee of 50% of the treatment cost. On the day of the reservation or in case of a no-show, the full fee will be charged, or the voucher will lose its validity. If we cancel your appointment, an alternative date will be offered."
+      },
+      "8": {
+        "title": "Gift Vouchers",
+        "content": "Vouchers must be used within the statutory warranty period, which is 3 years from the issuance date. Cash redemption of the voucher amount is not possible. Vouchers are sent free of charge via email; a €3.00 fee applies for postal delivery. Vouchers are non-transferable. Refunds are possible only after payment has been made. To use a voucher, an appointment must be made, and the original voucher must be presented at the appointment."
+      },
+      "9": {
+        "title": "Right of Withdrawal",
+        "content": "For orders placed via our homepage or order store, you may revoke your contractual declaration within two weeks without stating reasons, either in writing (e.g., letter, fax, email) or by returning the goods. To meet the withdrawal deadline, timely dispatch of the revocation or goods is sufficient. The revocation should be addressed to: Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Germany."
+      },
+      "10": {
+        "title": "Consequences of Withdrawal",
+        "content": "In the case of an effective withdrawal, services received by both parties must be returned. Obligations to refund payments must be fulfilled within 30 days. For you, this period begins with sending your revocation or receiving the goods; for us, it begins upon receipt. Your right of withdrawal expires prematurely if the voucher or goods are used with your explicit consent before the withdrawal period ends or if you initiate the withdrawal. Returns must have sufficient postage; unpaid returns will not be accepted. In case of a refund of the purchase price, shipping costs incurred and a €7.00 processing fee will be deducted or charged."
+      },
+      "11": {
+        "title": "Prices + Exchanges",
+        "content": "For Aja Massage reservations, the current prices on the homepage always apply, as do those in the Allgäu Shop order store. For printed price lists, the old list becomes invalid upon publication of a new one. Exchanges are accepted only upon presentation of a receipt. Exchanges or discounted item exchanges due to dissatisfaction are not permitted."
+      },
+      "12": {
+        "title": "Data Protection",
+        "content": "The customer agrees that Aja Massage may store and use personal data provided (name, address, phone number, email address, and medical risk information) for processing contractual relationships. The customer also agrees that Aja Massage may retain this data after contract fulfillment for future order processing. Furthermore, the customer consents to Aja Massage using personal data for postal advertising, email advertising for similar goods and services, and on the website. The customer may revoke this consent at any time for the future by contacting: Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Germany. Aja Massage will not transfer personal data to third parties without the customer's revocable explicit consent, except for data required for order processing (e.g., delivery address to shipping companies) and legally mandated data retention, limited to the minimum necessary scope."
+      },
+      "13": {
+        "title": "Consumer Arbitration",
+        "content": "The European Commission provides an online dispute resolution (ODR) platform at http://ec.europa.eu/consumers/odr/. Consumers may use this platform to resolve disputes, though participation is voluntary for both parties. Aja Massage explicitly states it is generally unwilling to participate in dispute resolution before a consumer arbitration board."
+      },
+      "14": {
+        "title": "Jurisdiction/Applicable Law",
+        "content": "The competent court is Langenfeld. German law applies."
+      },
+      "15": {
+        "title": "Final Provisions",
+        "content": "If individual sections or formulations of these General Terms and Conditions do not, no longer, or not fully comply with the current legal situation, the content and validity of the remaining provisions remain unaffected."
+      }
+    }
+  },
+  "privacy_policy": {
+    "title": "Privacy Policy",
+    "sections": {
+      "1": {
+        "title": "Data Protection Overview",
+        "content": ""
+      },
+      "1.1": {
+        "title": "General Information",
+        "content": "The following information provides a simple overview of what happens to your personal data when you visit this website. Personal data is any data that can be used to identify you personally. For detailed information about data protection, please refer to our privacy policy below."
+      },
+      "1.2": {
+        "title": "Data Collection on This Website",
+        "content": "How we collect data is clearly explained in Section 4."
+      },
+      "1.2.1": {
+        "title": "Responsible Party",
+        "content": "The data processing on this website is carried out by the website operator. You can find their contact details in the 'Note on the Responsible Party' section of this privacy policy."
+      },
+      "1.2.2": {
+        "title": "How Do We Collect Your Data?",
+        "content": "Some data is collected when you provide it to us (e.g. via contact forms). Other data is collected automatically or with your consent by our IT systems (e.g. browser type, OS, or access time)."
+      },
+      "1.3": {
+        "title": "Purpose of Data Usage",
+        "content": "Some data ensures proper website functionality. Other data may be used to analyze user behavior."
+      },
+      "1.4": {
+        "title": "Your Rights",
+        "content": "You have the right to information, correction, deletion, and restriction of processing. You may object to processing and lodge a complaint with a supervisory authority. Contact us for any data protection inquiries."
+      },
+      "1.5": {
+        "title": "Analytics Tools and Third-Party Tools",
+        "content": "Your surfing behavior may be statistically analyzed when visiting this website. Detailed information about these tools can be found in our privacy policy."
+      },
+      "2": {
+        "title": "Hosting",
+        "content": "We host our website with Hostinger (hereinafter: Hostinger). For detailed information, please refer to Hostinger's privacy policy."
+      },
+      "3": {
+        "title": "General Information and Mandatory Notices",
+        "content": "Data Protection: The operators of these pages take the protection of your personal data very seriously. We process your personal data confidentially and in accordance with legal data protection regulations and this privacy policy. When you use this website, various personal data are collected. Personal data is data that can be used to personally identify you. This privacy policy explains what data we collect and for what purpose we use it. It also explains how and for what purpose this is done. We would like to point out that data transmission over the Internet (e.g., communication by email) may have security vulnerabilities. Complete protection of data against access by third parties is not possible. Note on the Responsible Institution: The institution responsible for data processing on this website is: Aja Massage, Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Germany. Phone: +49 177 502 40 89. Email: ajamassage@web.de. The responsible institution is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (e.g., names, email addresses, etc.). Storage Duration: Unless a specific storage period is specified in this privacy policy, your personal data will remain with us until the purpose for processing the data no longer applies. If you assert a legitimate request for deletion or revoke consent for data processing, your data will be deleted unless we have other legally permissible reasons for storing your personal data (e.g., retention periods under tax or commercial law). In the latter case, deletion will take place after these reasons no longer apply. Data Protection Officer: We have appointed a data protection officer for our company: Kamil KOÇ, Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Germany. Phone: +49 177 502 40 89. Email: ajamassage@web.de. Note on Data Transfer to the USA and Other Third Countries: We use tools from companies based in the USA or other third countries that are not data protection-secure. If these tools are active, your personal data may be transferred to and processed in these third countries. We would like to point out that a level of data protection comparable to that in the EU cannot be guaranteed in these countries. For example, US companies are obliged to disclose personal data to security authorities without you as the data subject being able to take legal action against this. Therefore, the possibility that US authorities (e.g., intelligence services) may process, evaluate, and permanently store your data on US servers for surveillance purposes cannot be excluded. We have no influence over these processing activities. Revocation of Your Consent to Data Processing: Many data processing operations are only possible with your explicit consent. You can revoke your consent at any time. The legality of data processing carried out before the revocation remains unaffected by the revocation. Right to Object to Data Collection in Special Cases and Direct Advertising (GDPR Art. 21): IF DATA PROCESSING IS BASED ON ART. 6(1)(E) OR (F) GDPR, YOU HAVE THE RIGHT TO OBJECT TO THE PROCESSING OF YOUR PERSONAL DATA AT ANY TIME FOR REASONS ARISING FROM YOUR PARTICULAR SITUATION; THIS ALSO APPLIES TO PROFILING BASED ON THESE PROVISIONS. THE RESPECTIVE LEGAL BASIS ON WHICH PROCESSING IS BASED CAN BE FOUND IN THIS PRIVACY POLICY. IF YOU OBJECT, WE WILL NO LONGER PROCESS YOUR PERSONAL DATA UNLESS WE CAN DEMONSTRATE COMPELLING LEGITIMATE GROUNDS FOR THE PROCESSING THAT OVERRIDE YOUR INTERESTS, RIGHTS, AND FREEDOMS, OR THE PROCESSING IS FOR THE ESTABLISHMENT, EXERCISE, OR DEFENSE OF LEGAL CLAIMS (OBJECTION UNDER GDPR ART. 21(1)). IF YOUR PERSONAL DATA IS PROCESSED FOR DIRECT MARKETING PURPOSES, YOU HAVE THE RIGHT TO OBJECT AT ANY TIME TO THE PROCESSING OF YOUR PERSONAL DATA FOR SUCH MARKETING; THIS ALSO APPLIES TO PROFILING TO THE EXTENT RELATED TO SUCH DIRECT MARKETING. IF YOU OBJECT, YOUR PERSONAL DATA WILL NO LONGER BE USED FOR DIRECT MARKETING PURPOSES (OBJECTION UNDER GDPR ART. 21(2)). Right to Lodge a Complaint with the Supervisory Authority: In the event of GDPR violations, data subjects have the right to lodge a complaint with a supervisory authority, particularly in the Member State of their habitual residence, place of work, or place of the alleged infringement. The right to lodge a complaint is without prejudice to other administrative or judicial remedies. Right to Data Portability: You have the right to request that we transfer data we process automatically based on your consent or in fulfillment of a contract to you or a third party in a commonly used, machine-readable format. If you request direct transfer to another responsible party, this will only be done to the extent technically feasible. SSL or TLS Encryption: For security reasons and to protect the transmission of confidential content (e.g., orders or inquiries) that you send to us as the site operator, this site uses SSL or TLS encryption. You can recognize an encrypted connection by the change in your browser's address line from 'http://' to 'https://' and the lock icon in your browser bar. When SSL or TLS encryption is activated, data you transmit to us cannot be read by third parties. Encrypted Payments on This Website: If you are required to provide payment information (e.g., account number for direct debit) after concluding a paid contract, this information is required for payment processing. Payment transactions via common payment methods (Visa/MasterCard, direct debit) are processed exclusively via encrypted SSL or TLS connections. You can recognize an encrypted connection by the change in your browser's address line from 'http://' to 'https://' and the lock icon in your browser bar. Encrypted communication ensures that payment data you transmit to us cannot be read by third parties. Information, Deletion, and Correction: Within the framework of applicable legal provisions, you have the right to free information about your stored personal data, its origin and recipients, and the purpose of data processing, as well as the right to correct or delete this data. For questions about your personal data, you can contact us at any time. Right to Restriction of Processing: You have the right to request restriction of processing of your personal data. You can contact us at any time. The right to restriction applies in the following cases: • If you dispute the accuracy of your personal data stored by us, we generally need time to verify this. During verification, you have the right to request restriction of processing. • If your personal data was processed unlawfully, you can request restriction of processing instead of deletion. • If we no longer need your personal data but you need it to exercise, defend, or assert legal claims, you can request restriction of processing instead of deletion. • If you have objected under Art. 21(1) GDPR, a balance must be struck between your interests and ours. Until it is determined whose interests prevail, you have the right to request restriction of processing. If processing of your personal data has been restricted, this data may only be processed (apart from storage) with your consent or for legal claims, protection of rights, or important public interest of the EU or a Member State. Objection to Promotional Emails: The use of contact data published under the imprint obligation for unsolicited advertising and information materials is prohibited. The site operators expressly reserve the right to take legal action in the event of unsolicited advertising, such as spam emails."
+      },
+      "4": {
+        "title": "Data Collection on This Website",
+        "content": ""
+      },
+      "4.1": {
+        "title": "Cookies",
+        "content": "Our websites use cookies. These are small text files that do not harm your device. There are session cookies (temporary) and persistent cookies."
+      },
+      "4.1.1": {
+        "title": "Types of Cookies",
+        "content": "Session cookies are deleted after your visit. Persistent cookies remain until manually deleted or automatically removed by browser settings. Third-party cookies are placed by external companies."
+      },
+      "4.1.2": {
+        "title": "Legal Basis",
+        "content": "Technically necessary cookies under GDPR Article 6(1)(f). Other cookies require explicit consent (Article 6(1)(a)). You can revoke consent at any time."
+      },
+      "4.1.3": {
+        "title": "Browser Settings",
+        "content": "You can manage cookies in your browser. Note that some website features may be limited without cookies."
+      },
+      "4.2": {
+        "title": "Server Log Files",
+        "content": "Automatically collected data: Browser type, OS, Referrer URL, Access time, IP address. Processed under GDPR Article 6(1)(f)."
+      },
+      "4.3": {
+        "title": "Contact Form",
+        "content": "Data submitted via the form (contact details, message) is processed under GDPR Article 6(1)(b) or (f). Data is retained until your request is fully processed."
+      },
+      "4.4": {
+        "title": "Contact via Email/Phone/Fax",
+        "content": "Your communication data and request content are processed under GDPR Article 6(1)(b). Data is deleted after processing unless legal retention periods apply."
+      },
+      "5": {
+        "title": "5-Analytics Tools and Advertising",
+        "content": ""
+      },
+      "5.1": {
+        "title": "5.1-Google Analytics",
+        "content": "This website uses Google Analytics. Provider: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland.<br><br>Data transfer to US based on <a href='https://privacy.google.com/businesses/controllerterms/mccs/' target='_blank' rel='noopener'>EU Standard Contractual Clauses</a>.<br><br>IP anonymization enabled. Data deletion after 14 months: <a href='https://support.google.com/analytics/answer/7667196?hl=en' target='_blank' rel='noopener'>Deletion Details</a>.<br><br>Opt-out: <a href='https://tools.google.com/dlpage/gaoptout?hl=en' target='_blank' rel='noopener'>Google Opt-Out Add-on</a>"
+      },
+      "5.1.1": {
+        "title": "5.1.1-Demographic Features",
+        "content": "Collection of age, gender and interest data. Disable: <a href='https://www.google.com/settings/ads' target='_blank' rel='noopener'>Ad Settings</a>"
+      },
+      "5.2": {
+        "title": "5.2-Facebook Pixel",
+        "content": "Used for conversion tracking. Provider: Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland.<br><br>Data transfer details: <a href='https://www.facebook.com/legal/EU_data_transfer_addendum' target='_blank' rel='noopener'>EU Data Transfer Addendum</a><br><br>Joint Controller Agreement: <a href='https://www.facebook.com/legal/controller_addendum' target='_blank' rel='noopener'>Agreement Text</a><br><br>Ad preferences: <a href='https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen' target='_blank' rel='noopener'>Custom Audiences</a><br><br>Opt-out: <a href='http://www.youronlinechoices.com/' target='_blank' rel='noopener'>EDAA Preference Manager</a>"
+      },
+      "6": {
+        "title": "6-Plugins and Tools",
+        "content": ""
+      },
+      "6.1": {
+        "title": "6.1-Google Web Fonts",
+        "content": "This site uses Google Web Fonts for uniform font display. Details: <a href='https://developers.google.com/fonts/faq' target='_blank' rel='noopener'>Google Web Fonts FAQ</a><br><br>Privacy Policy: <a href='https://policies.google.com/privacy?hl=en' target='_blank' rel='noopener'>Google Privacy Policy</a><br><br>Legal basis: Article 6(1)(f) GDPR. Consent can be revoked."
+      },
+      "6.2": {
+        "title": "6.2-Google Maps",
+        "content": "Map service provider: Google Ireland Limited, Dublin 4, Ireland.<br><br>Data transfer details: <a href='https://privacy.google.com/businesses/gdprcontrollerterms/' target='_blank' rel='noopener'>GDPR Terms</a> and <a href='https://privacy.google.com/businesses/gdprcontrollerterms/sccs/' target='_blank' rel='noopener'>SCCs</a><br><br>Privacy Policy: <a href='https://policies.google.com/privacy?hl=en' target='_blank' rel='noopener'>Google Privacy Policy</a><br><br>Legal basis: Article 6(1)(f) GDPR. Revocable consent."
+      },
+      "7": {
+        "title": "7-E-Commerce and Payment Providers",
+        "content": ""
+      },
+      "7.1": {
+        "title": "7.1-Data Processing (Customer & Contract Data)",
+        "content": "We process personal data only for contract establishment (inventory data) under Article 6(1)(b) GDPR. Usage data collected solely for service provision and billing. Customer data deleted after contract termination. Legal retention periods apply."
+      },
+      "7.2": {
+        "title": "7.2-Data Transfer to Third Parties",
+        "content": "Data shared with third parties (logistics, banks) only for order fulfillment. Marketing-related sharing requires explicit consent. All transfers comply with Article 6(1)(b) GDPR for contractual obligations."
+      }
+    }
+  },
+  "booking_system_disabled": "The booking system is currently disabled. Please try again later or contact us.",
+  "close": "Close",
+  "company_name": "Aja Massage",
+  "all_rights_reserved": "All rights reserved",
+  "copyright": "© {{year}} {{company}}. All rights reserved",
+  "search": "Search",
+  "search_placeholder": "Search for services or treatments...",
+  "no_results_found": "No results found.",
+  "error_cancel_too_late": "Cancellation is not possible as there are less than 24 hours remaining until your appointment.",
+  "admin": {
+    "siteSettings": {
+      "title": "Site Settings",
+      "general": "General Settings",
+      "aboutUs": "About Us Page",
+      "termsAndConditions": "Terms and Conditions Page",
+      "privacyPolicy": "Privacy Policy Page",
+      "siteName": "Site Name",
+      "logoUrl": "Logo URL",
+      "faviconUrl": "Favicon URL",
+      "contactEmail": "Contact Email",
+      "contactPhone": "Contact Phone",
+      "address": "Address",
+      "saveGeneralSettings": "Save General Settings",
+      "editAboutUs": "Edit About Us Page",
+      "aboutUsContent": "About Us Content",
+      "saveAboutUs": "Save About Us Page",
+      "editTermsAndConditions": "Edit Terms and Conditions Page",
+      "termsAndConditionsContent": "Terms and Conditions Content",
+      "saveTermsAndConditions": "Save Terms and Conditions Page",
+      "editPrivacyPolicy": "Edit Privacy Policy Page",
+      "privacyPolicyContent": "Privacy Policy Content",
+      "savePrivacyPolicy": "Save Privacy Policy Page",
+      "loadError": "Error loading settings.",
+      "generalSettingsSaved": "General settings saved successfully.",
+      "generalSettingsSaveError": "Error saving general settings.",
+      "aboutUsSaved": "About Us page saved successfully.",
+      "aboutUsSaveError": "Error saving About Us page.",
+      "termsSaved": "Terms and Conditions page saved successfully.",
+      "termsSaveError": "Error saving Terms and Conditions page.",
+      "privacyPolicySaved": "Privacy Policy page saved successfully.",
+      "privacyPolicySaveError": "Error saving Privacy Policy page."
+    }
+  }
+}

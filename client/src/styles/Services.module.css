@@ -1,0 +1,40 @@
+/* src/styles/Services.module.css */
+.services {
+    padding: 32px; /* Varsayılan, sx ile override edilir */
+  }
+  
+  .title {
+    font-size: 2.5rem; /* h4'e denk */
+    font-weight: 700;
+    color: #1976d2; /* MUI primary rengi */
+    margin-bottom: 24px;
+  }
+  
+  .noServices {
+    font-size: 1rem;
+    color: #555;
+    padding: 16px;
+  }
+  
+  /* Responsive Ayarlar */
+  @media (max-width: 600px) {
+    .services {
+      padding: 16px; /* Mobilde padding küçülür */
+    }
+  
+    .title {
+      font-size: 1.75rem; /* Mobilde h5'e denk */
+      margin-bottom: 16px;
+    }
+  
+    .noServices {
+      font-size: 0.875rem; /* Mobilde biraz küçülür */
+      padding: 8px;
+    }
+  }
+  
+  @media (min-width: 600px) and (max-width: 960px) {
+    .services {
+      padding: 24px; /* Orta ekranlar için ara padding */
+    }
+  }

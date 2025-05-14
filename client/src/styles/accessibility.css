@@ -1,0 +1,67 @@
+/* Yüksek kontrast modu */
+.high-contrast {
+  --primary-color: #000000;
+  --secondary-color: #ffffff;
+  --text-color: #ffffff;
+  --background-color: #000000;
+  --accent-color: #ffff00;
+}
+
+.high-contrast * {
+  color: var(--text-color) !important;
+  background-color: var(--background-color) !important;
+  border-color: var(--text-color) !important;
+}
+
+.high-contrast a {
+  color: var(--accent-color) !important;
+}
+
+.high-contrast button {
+  border: 2px solid var(--text-color) !important;
+}
+
+/* Klavye navigasyonu için focus stilleri */
+:focus {
+  outline: 3px solid var(--accent-color);
+  outline-offset: 2px;
+}
+
+/* Ekran okuyucu için gizli metin */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ARIA etiketleri için görsel ipuçları */
+[aria-label] {
+  position: relative;
+}
+
+[aria-label]:hover::after {
+  content: attr(aria-label);
+  position: absolute;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  padding: 0.5rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+  z-index: 1000;
+}
+
+/* Animasyonları devre dışı bırakma seçeneği */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+} 

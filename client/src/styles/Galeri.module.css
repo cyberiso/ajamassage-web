@@ -1,0 +1,17 @@
+/* src/styles/Galeri.module.css */
+.galleryImage {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 8px; /* Yuvarlak köşeler */
+}
+
+.galleryImage:hover {
+  transform: scale(1.05); /* %5 büyütme */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Hafif gölge */
+}
+
+/* Responsive Ayarlar */
+@media (max-width: 600px) {
+  .galleryImage {
+    height: 150px; /* JSX ile uyumlu */
+  }
+}

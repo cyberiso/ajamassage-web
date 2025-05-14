@@ -1,0 +1,31 @@
+.table {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+  .table .MuiTableCell-head {
+    background-color: #0d47a1;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .table .MuiTableRow-root:nth-child(even) {
+    background-color: #f5f7fa;
+  }
+  
+  .table .MuiButton-root {
+    border-radius: 20px;
+    padding: 6px 12px;
+    font-size: 12px;
+    transition: all 0.2s ease;
+  }
+  
+  .table .MuiButton-containedSuccess {
+    background-color: #2e7d32;
+  }
+  
+  .table .MuiButton-containedError {
+    background-color: #c62828;
+  }

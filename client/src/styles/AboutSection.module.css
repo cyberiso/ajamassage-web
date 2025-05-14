@@ -1,0 +1,23 @@
+/* src/styles/AboutSection.module.css */
+.container {
+    padding: 32px;
+    background-color: #f9f9f9; /* Hafif gri arka plan */
+  }
+  
+  .title {
+    font-size: 2.5rem; /* h4'e denk */
+    font-weight: 700;
+    color: #1976d2; /* MUI primary rengi */
+    margin-bottom: 16px;
+  }
+  
+  .text {
+    font-size: 1rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+  
+  .buttonContainer {
+    text-align: center;
+  }

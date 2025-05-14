@@ -1,0 +1,116 @@
+/* src/styles/Hizmetlerimiz.module.css */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: var(--background);
+}
+
+.cardImage {
+  object-fit: cover;
+  transition: transform 0.3s ease;
+  border-radius: 8px 8px 0 0;
+}
+
+.cardImage:hover {
+  transform: scale(1.05);
+}
+
+/* Mor Tema Renkleri */
+:root {
+  --primary: #553c9a;
+  --primary-light: #9f7aea;
+  --primary-dark: #44337a;
+  --secondary: #d69e2e;
+  --background: #ffffff;
+  --text: #2d3748;
+  --accent: #ed64a6;
+  --very-light-purple: #faf5ff;
+}
+
+.serviceCard {
+  background-color: var(--background);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(85, 60, 154, 0.1);
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.serviceCard:hover {
+  box-shadow: 0 6px 12px rgba(85, 60, 154, 0.15);
+  transform: translateY(-2px);
+}
+
+.cardContent {
+  padding: 1rem;
+  background-color: var(--very-light-purple);
+}
+
+.cardTitle {
+  color: var(--primary);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  font-size: 1.25rem;
+}
+
+.cardDescription {
+  color: var(--text);
+  font-size: 0.875rem;
+  margin-bottom: 1rem;
+}
+
+.cardDetails {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--primary-light);
+}
+
+.cardPrice {
+  color: var(--primary);
+  font-weight: 600;
+  font-size: 1.125rem;
+}
+
+.cardDuration {
+  color: var(--primary-light);
+  font-size: 0.875rem;
+}
+
+.cardIcon {
+  color: var(--primary);
+  transition: color 0.3s ease;
+}
+
+.cardIcon:hover {
+  color: var(--primary-dark);
+}
+
+/* Responsive Ayarlar */
+@media (max-width: 600px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .cardContent {
+    padding: 0.75rem;
+  }
+
+  .cardTitle {
+    font-size: 1rem;
+  }
+
+  .cardDescription {
+    font-size: 0.813rem;
+  }
+
+  .cardPrice {
+    font-size: 1rem;
+  }
+
+  .cardDuration {
+    font-size: 0.75rem;
+  }
+}

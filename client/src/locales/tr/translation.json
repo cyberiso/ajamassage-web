@@ -1,0 +1,430 @@
+{
+  "turkish": "Türkçe",
+  "german": "Almanca",
+  "english": "İngilizce",
+  "home": "Ana Sayfa",
+  "about": "Hakkımızda",
+  "services": "Hizmetlerimiz",
+  "physiotherapy": "Fizyoterapi",
+  "gallery": "Galeri",
+  "contact": "İletişim",
+  "customer_reviews": "Müşteri Görüşleri",
+  "book_appointment": "Randevu Al",
+  "cancel_appointment": "Randevu İptal",
+  "phone": "+49 177 502 40 89",
+  "Tel": "Tel",
+  "email": "e-posta",
+  "e-mail": "ajamassage@web.de",
+  "footer": "© {{year}} Aja Massage. Tüm hakları saklıdır.",
+  "quick_links": "Hızlı Linkler",
+  "follow_us": "Bizi Takip Et",
+  "explore_services": "Hizmetlerimizi Keşfet",
+  "view_all_services": "Tüm Hizmetleri Gör",
+  "physiotherapy_services": "Fizyoterapi Uygulamalarımız",
+  "view_all_treatments": "Tüm Fizyoterapileri Gör",
+  "fetch_service_error": "Hizmet çekilirken hata oluştu.",
+  "loading": "Yükleniyor...",
+  "error": "Hata: {{message}}",
+  "service_not_found": "Hizmet bulunamadı.",
+  "duration": "Süre",
+  "minutes": "dakika",
+  "price": "Fiyat",
+  "fetch_treatment_error": "Fizyoterapi hizmeti çekilirken hata oluştu.",
+  "treatment_not_found": "Fizyoterapi hizmeti bulunamadı.",
+  "fetch_services_error": "Hizmetler çekilemedi",
+  "no_services": "Hizmet bulunamadı",
+  "contact_us": "Bize Ulaşın",
+  "message_success": "Mesajınız başarıyla gönderildi!",
+  "full_name": "Ad Soyad",
+  "phone_number": "Telefon Numarası",
+  "message": "Mesajınız",
+  "send": "Gönder",
+  "contact_info": "İletişim Bilgileri",
+  "address": "Adres",
+  "sample_address": "Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Almanya",
+  "sample_phone": "+49 177 502 40 89",
+  "sample_email": "ajamassage@web.de",
+  "working_hours": "Çalışma Saatleri",
+  "working_hours_mon_sat": "Pazartesi - Pazar: 14:00 - 22:00",
+  "Datenschutz­erklärung": "Gizlilik Politikası",
+  "datenschutz": "Gizlilik Politikası",
+  "find_us_on_map": "Bizi Haritada Bulun",
+  "map": "Harita",
+  "message_failed": "Mesaj gönderilemedi.",
+  "server_unreachable": "Sunucuya ulaşılamadı.",
+  "name": "Adınız",
+  "phone_placeholder": "+90 123 456 78 90",
+  "select_date": "Tarih Seçin",
+  "available_hours": "Müsait Saatler",
+  "no_hours_available": "Bu gün için müsait saat kalmamıştır.",
+  "select_service": "Hizmet Seçin",
+  "note_optional": "Not (İsteğe Bağlı)",
+  "request_appointment": "Randevu Talep Et",
+  "please_select_hour": "Lütfen bir saat seçin.",
+  "please_enter_phone": "Lütfen telefon numaranızı girin.",
+  "booking_success": "Randevu talebiniz alındı!",
+  "cancel_code": "İptal etmek için şu kodu kullanın",
+  "something_wrong": "Bir şeyler ters gitti.",
+  "klasik_masaj": "Klasik Masaj",
+  "spor_masajı": "Spor Masajı",
+  "aromaterapi": "Aromaterapi",
+  "cancel_code_placeholder": "Ör: XYZ123",
+  "cancel_booking": "Randevuyu İptal Et",
+  "please_enter_cancel_code": "Lütfen iptal kodunu girin.",
+  "booking_cancelled": "Randevunuz başarıyla iptal edildi!",
+  "cancel_failed": "İptal işlemi başarısız oldu.",
+  "share_your_opinion": "Görüşünüzü Paylaşın",
+  "write_your_comment": "Yorumunuzu buraya yazın...",
+  "submit": "Gönder",
+  "approved_reviews": "Müşteri Yorumları",
+  "date": "Tarih",
+  "no_approved_reviews": "Henüz onaylanmış yorum bulunmamaktadır.",
+  "no_reviews_yet": "Henüz yorum bulunmamaktadır.",
+  "fetch_reviews_failed": "Onaylanmış yorumlar çekilemedi",
+  "review_submitted": "Yorumunuz gönderildi, admin onayı bekleniyor.",
+  "review_submit_failed": "Yorum gönderilemedi",
+  "rating_comment_required": "Lütfen bir puan ve yorum girin.",
+  "stats_title": "Rakamlarla Biz",
+  "service": "Hizmet",
+  "happy_customers": "Mutlu Müşteri",
+  "staff": "Personel",
+  "years_experience": "Yıl Deneyim",
+  "gallery_image_alt": "Galeri Fotoğrafı",
+  "enlarged_photo_alt": "Büyütülmüş Fotoğraf",
+  "view_all_photos": "Tüm Fotoğrafları Gör",
+  "fetch_photos_failed": "Fotoğraflar çekilemedi",
+  "dashboard": "Kontrol Paneli",
+  "hizmetlerimiz": "Hizmetlerimiz",
+  "fizyoterapi": "Fizyoterapi",
+  "galeri": "Galeri",
+  "kullanıcılar": "Kullanıcılar",
+  "mesajlar": "Mesajlar",
+  "randevular": "Randevular",
+  "slider_yönetimi": "Slider Yönetimi",
+  "müşteri_yorumları": "Müşteri Yorumları",
+  "about_us": "Hakkımızda",
+  "who_we_are": "Biz Kimiz?",
+  "about_us_text_1": "Masaj salonumuz, 2024 yılında Köln'ün kalbinde kuruldu. Misyonumuz, müşterilerimize rahatlama ve yenilenme sunarak günlük yaşamın stresinden uzaklaştırmaktır. Uzman terapistlerimizle, her biri kişiye özel hizmetlerimizle sizlere en iyi deneyimi yaşatmayı hedefliyoruz.",
+  "about_us_text_2": "Doğal yağlar ve profesyonel teknikler kullanarak, hem fiziksel hem de zihinsel sağlığınızı destekliyoruz. Yılların getirdiği deneyimle, her geçen gün hizmet kalitemizi artırmaya devam ediyoruz.",
+  "about_us_image_alt": "Hakkımızda",
+  "why_choose_us": "Neden Bizi Seçmelisiniz?",
+  "reason_1": "Uzman ve sertifikalı terapistler",
+  "reason_2": "Hijyenik ve konforlu ortam",
+  "reason_3": "Kişiye özel masaj seçenekleri",
+  "reason_4": "Uygun fiyatlarla yüksek kalite",
+  "about_section_text": "Masaj salonumuz, 2024'den beri Köln'de sizlere rahatlama ve yenilenme sunuyor. Uzman terapistlerimizle, kişiye özel hizmetlerimizle her zaman yanınızdayız.",
+  "more_info": "Daha Fazla Bilgi",  
+  "users": "Kullanıcılar",
+  "messages": "Mesajlar",
+  "appointments": "Randevular",
+  "slider_management": "Slider Yönetimi",
+  "logout": "Çıkış",
+  "past_appointments": "Geçmiş Randevular",
+  "search_by_name_or_phone": "Ad veya Telefon ile Ara",
+  "status": "Durum",
+  "note": "Not",
+  "actions": "İşlem",
+  "approve": "Onayla",
+  "approved": "Onaylandı",
+  "cancel": "İptal Et",
+  "cancelled": "İptal Edildi",
+  "no_current_appointments": "Güncel randevu bulunamadı.",
+  "no_past_appointments": "Geçmiş randevu bulunamadı.",
+  "status_update_failed": "Durum güncellenemedi.",
+  "rows_per_page": "Sayfa başına satır",
+  "customer_phone": "Müşteri Telefonu",
+  "treatments": "Fizyoterapi",
+  "no_treatments": "Hiçbir tedavi yok",
+  "terms_and_conditions_link": "Şartlar ve Koşullar",
+  "terms_and_conditions": {
+    "title": "Aja Massage Genel Şartlar ve Koşulları",
+    "effective_date": "(1 Ocak 2025 itibariyle)",
+    "sections": {
+      "1": {
+        "title": "Kapsam",
+        "content": "Aja Massage tarafından sağlanan tüm hizmetler yalnızca bu Genel Şartlar ve Koşullar temelinde sağlanır. Bu Genel Şartlar ve Koşullar, tarafımız ile müşterilerimiz ve diğer sözleşme ortaklarımız arasında akdedilen tüm niyet beyanları, sözleşmeler ve hukuki işlemler veya hukuki işlemlere benzer işlemler için geçerlidir. Genel Şartlar ve Koşullarımızın içeriğinden farklı olan şartlar ve koşullar geçerli değildir. Müşteri veya diğer sözleşme ortağının kendi şart ve koşullarına atıfta bulunan herhangi bir karşı teyit açıkça reddedilir. Bunlar, yazılı olarak açıkça teyit edilmediği sürece tarafımızca sağlanan herhangi bir hizmete ilişkin herhangi bir anlaşma, sözleşme veya temelin parçası olmayacaktır. Genel şartlara ek olarak, uygulama yönetmeliği (uygulama duyurusuna bakınız) sözleşmenin bir parçası haline gelir. Uygulama kurallarının tekrar tekrar ihlal edilmesi veya göz ardı edilmesi durumunda, ev kurallarımızı uygulama hakkımızı saklı tutarız."
+      },
+      "2": {
+        "title": "Tıbbi Hizmetler",
+        "content": "Yukarıda adı geçen hastaya tıbbi olarak öngörülen tedavi, tanınmış mesleki standartlara göre Hasta Hakları Kanunu uyarınca gerçekleştirilir."
+      },
+      "3": {
+        "title": "Sağlık Tedavileri",
+        "content": "Sadece rahatlama, canlanma ve sağlık koruma amaçlı uygulanan sağlık uygulamaları tıbbi hizmet veya tedavi oluşturmaz. Tedavi gerektiren sağlık sorunları varsa veya şüpheleniliyorsa, müşterinin masaj yaptırmadan önce doktoruna danışması önerilir."
+      },
+      "4": {
+        "title": "Müşterinin Bilgi Sağlama Yükümlülüğü",
+        "content": "Alerji, fiziksel kısıtlamalar, basınca duyarlı cilt, gebelik veya akut hastalıklar, özellikle kalp-damar sistemi hastalıkları, damar hastalıkları, bulaşıcı hastalıklar, ateşli hastalıklar ve iltihaplı süreçler, ülserler, hemofili (kanama bozukluğu), arterioskleroz, dermatozlar ve açık yaralar gibi bilinen rahatsızlıklar, tedaviye başlamadan önce Oase des Wohlfühls GmbH personeline bildirilmelidir."
+      },
+      "5": {
+        "title": "Sorumluluk Reddi",
+        "content": "Uzman kullanımına rağmen, müşterinin hariç tutma nedenlerini gizlemesinden kaynaklanan dolaylı zararlar meydana gelirse, her türlü sorumluluktan muaf oluruz. Aynı durum, hariç tutma nedeninin müşteri tarafından bilinmemesi ve bizim tarafımızdan da anlaşılamaması nedeniyle ortaya çıkan zararlar için de geçerlidir. Sorumluluk reddi kapsamına, Aja Massage, yasal temsilcileri veya yardımcıları tarafından ihmalkar bir görev ihlaline dayanan yaşam, beden veya sağlığa verilen zararlar ile Aja Massage, yasal temsilcileri veya yardımcıları tarafından ağır ihmalkar bir görev ihlaline dayanan diğer zararlar dahil değildir."
+      },
+      "6": {
+        "title": "Randevular",
+        "content": "Randevularınızı ofisimizde, e-posta, WhatsApp veya telefon yoluyla alabilirsiniz. E-posta veya WhatsApp üzerinden yapılan randevu talepleri, yalnızca Aja Massage'in onay e-postası/WhatsApp göndermesi ve bunun müşteri tarafından onaylanması durumunda onaylanmış kabul edilir. Randevu konusunda mutabakata varılmasıyla taraflar arasında hukuksal bağlayıcılığı olan bir sözleşme kurulmuş olur. Anlaşılan randevuya geç kalınması da sonraki müşterilerin menfaati doğrultusunda tedavi süresinden düşülebilir. Müşterinin randevu sırasında tedavi süresinin kısaltılmasını talep etmesi durumunda fiyat indirimi yapılamaz. Rezervasyona göre tedavi bedelinin tamamı ödenmelidir."
+      },
+      "7": {
+        "title": "Randevu İptalleri",
+        "content": "Uyamayacağınız randevuların en az 24 saat öncesinden iptal edilmesi gerekmektedir. Belirtilen süre içerisinde başvuru yapılmazsa Aja Massage tedavi bedelinin %50'si oranında iptal ücreti almaya hak kazanır. Rezervasyon günü veya rezervasyona gelmeme durumunda tam ücret tahsil edilir veya kupon geçerliliğini yitirir. Randevunuzu iptal etmemiz durumunda size alternatif bir tarih verilecektir."
+      },
+      "8": {
+        "title": "Hediye Çekleri",
+        "content": "Kuponun yasal garanti süresi içerisinde kullanılması gerekmektedir. Bu süre 3 yıldır ve çekin düzenlendiği tarihten itibaren başlar. Kupon bedelinin nakit olarak ödenmesi söz konusu değildir. E-posta yoluyla kupon ücretsiz gönderilir, posta yoluyla gönderilirse 3,00 € ücret alınır. Kuponlar başka kişilere devredilemez. Geri ödeme ancak ödeme yapıldıktan sonra gerçekleşebilir. Kuponu kullanabilmek için randevu alınması ve randevuya orijinal kuponun getirilmesi gerekmektedir."
+      },
+      "9": {
+        "title": "Cayma Hakkı",
+        "content": "Ana sayfamız veya sipariş mağazamız üzerinden verdiğiniz siparişlerde, iki hafta içinde herhangi bir gerekçe göstermeden sözleşmesel beyanınızı yazılı olarak (örneğin mektup, faks, e-posta) veya malı iade ederek iptal edebilirsiniz. Cayma süresine uymak için, iptali veya malı zamanında göndermeniz yeterlidir. İptal talebi şu adrese yapılmalıdır: Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Almanya."
+      },
+      "10": {
+        "title": "İptalin Sonuçları",
+        "content": "Etkin bir iptal halinde, her iki tarafın almış olduğu hizmetlerin iade edilmesi gerekir. Ödemelerin iadesine ilişkin yükümlülüklerin 30 gün içinde yerine getirilmesi gerekmektedir. Sizin için süre, iptal bildiriminizi gönderdiğiniz veya malı teslim aldığınız tarihte, bizim için ise bunları teslim aldığımız tarihte başlar. Cayma hakkınız, çek veya malın cayma süresi dolmadan önce sizin açık rızanızla kullanılması veya cayma hakkının tarafınızca başlatılması halinde, zamanından önce sona erer. İadelerin yeterli damgaya sahip olması gerekmektedir. Kargo ücreti ödenmeyen iadeler kabul edilmeyecektir. Satın alma bedelinin iadesi durumunda, oluşan kargo masrafları ve 7,00 € tutarındaki işlem ücreti tutulacak veya tahsil edilecektir."
+      },
+      "11": {
+        "title": "Fiyatlar + Değişim",
+        "content": "Aja Massage rezervasyonlarında her zaman ana sayfadaki güncel fiyatlar geçerlidir. Aynı durum Allgäu Shop sipariş mağazası için de geçerlidir. Basılı fiyat listesi durumunda, yeni fiyat listesi yayımlandığında eski fiyat listesi geçerliliğini yitirir. Değişimler yalnızca fişin ibrazı karşılığında kabul edilecektir. Memnuniyetsizlik nedeniyle değişim veya indirimli ürün değişimi yapılmamaktadır."
+      },
+      "12": {
+        "title": "Veri Koruma",
+        "content": "Müşteri, Aja Massage'in, Aja Massage'a sağladığı müşterinin kişisel verilerini (isim, adres, telefon numarası, e-posta adresi ve tıbbi risklere ilişkin bilgiler) sözleşmesel bir ilişkinin işlenmesi amacıyla saklayabileceğini ve kullanabileceğini kabul eder. Ayrıca müşteri, Aja Massage'in, sözleşmenin yerine getirilmesinden sonra dahi müşteri tarafından sağlanan kişisel verileri gelecekteki siparişlerin işlenmesi amacıyla saklayabileceğini kabul eder. Ayrıca müşteri, Aja Massage'in kişisel verilerini posta yoluyla reklam ve e-posta yoluyla kendi benzer mal ve hizmetlerine yönelik reklamların yanı sıra web sitesinde de kullanabileceğini kabul eder. Müşteri, vermiş olduğu onayı dilediği zaman geleceğe yönelik olarak geri alabilir. İptal, aşağıdaki iletişim bilgilerine posta yoluyla yapılabilir: Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Almanya. Aja Massage, müşterinin kişisel verilerini, müşterinin her zaman geri alınabilen açık onayı olmadan üçüncü taraflara aktarmayacaktır. Siparişin işlenmesi kapsamında iletilmesi gereken veriler (örneğin, kargo şirketine teslimat adresi) ve yasal olarak saklanması gereken veriler bunun dışındadır. Ancak bu durumlarda iletilen verinin kapsamı, gerekli olan asgari ölçüyle sınırlıdır."
+      },
+      "13": {
+        "title": "Tüketici Tahkimi",
+        "content": "Avrupa Komisyonu, çevrimiçi uyuşmazlık çözümü (ODR) için bir platform sunmaktadır; bu platforma şu adresten ulaşabilirsiniz: http://ec.europa.eu/consumers/odr/. Tüketiciler, uyuşmazlıklarını çözmek için bu platformu kullanma imkânına sahiptir. Çevrimiçi uyuşmazlık çözümü her iki taraf için de gönüllülük esasına dayanmaktadır. Ancak Aja Massage'in genel olarak tüketici tahkim kurulu önünde uyuşmazlık çözüm sürecine katılmaya hazır olmadığı açıkça belirtilmektedir."
+      },
+      "14": {
+        "title": "Yargı Yeri/Uygulanacak Hukuk",
+        "content": "Yetkili mahkeme Langenfeld'dir. Alman hukuku geçerlidir."
+      },
+      "15": {
+        "title": "Son Hükümler",
+        "content": "Bu Genel Şartlar ve Koşulların bazı bölümleri veya bireysel formülasyonları geçerli yasal duruma uymuyorsa, artık uymuyorsa veya tamamen uymuyorsa, bu Genel Şartlar ve Koşulların geri kalan hükümlerinin içeriği ve geçerliliği bundan etkilenmez."
+      }
+    }
+  },
+  "privacy_policy_link": "Gizlilik Politikası",
+  "privacy_policy": {
+    "title": "Gizlilik Politikası",
+    "sections": {
+      "1": {
+        "title": "1-Veri korumasına genel bakış",
+        "content": ""
+      },
+      "1.1": {
+        "title": "1.1-Genel bilgi",
+        "content": "Aşağıdaki bilgiler, bu web sitesini ziyaret ettiğinizde kişisel verilerinize ne olduğuna dair basit bir genel bakış sunmaktadır. Kişisel veri, sizi kişisel olarak tanımlamaya yarayacak her türlü veridir. Veri korumasına ilişkin detaylı bilgi için lütfen bu metnin altında yer alan gizlilik politikamızı inceleyiniz."
+      },
+      "1.2": {
+        "title": "1.2-Bu web sitesinde veri toplanması",
+        "content": "Nasıl veri topladığımız 4. maddede açık bir şekilde açıklanmaktadır."
+      },
+      "1.2.1": {
+        "title": "1.3-Bu internet sitesindeki veri işleme",
+        "content": "Bu internet sitesindeki veri işleme, internet sitesi operatörü tarafından gerçekleştirilmektedir. İletişim bilgilerine bu veri koruma beyannamesinin 'Sorumlu kuruluşa ilişkin not' bölümünden ulaşabilirsiniz."
+      },
+      "1.2.2": {
+        "title": "1.4-Verilerinizi nasıl topluyoruz?",
+        "content": "Verileriniz bir yandan siz bize verdiğinizde toplanır. Bu, örneğin bir iletişim formuna girdiğiniz veriler olabilir. Web sitemizi ziyaret ettiğinizde diğer veriler otomatik olarak veya sizin onayınızla BT sistemlerimiz tarafından toplanır. Bunlar öncelikle teknik verilerdir (örneğin internet tarayıcısı, işletim sistemi veya sayfaya erişim zamanı)."
+      },
+      "1.3": {
+        "title": "1.5-Verilerinizi ne için kullanıyoruz?",
+        "content": "Verilerin bir kısmı web sitesinin düzgün bir şekilde çalışmasını sağlamak amacıyla toplanmaktadır. Diğer veriler kullanıcı davranışınızı analiz etmek için kullanılabilir."
+      },
+      "1.4": {
+        "title": "1.6-Verilerinizle ilgili haklarınız",
+        "content": "Saklanan kişisel verilerinizin kaynağı, alıcısı ve amacı hakkında her zaman ücretsiz bilgi edinme hakkına sahipsiniz. Ayrıca bu verilerin düzeltilmesini veya silinmesini talep etme, işlemenin kısıtlanmasını isteme ve yetkili denetim makamına şikayette bulunma hakkınız vardır. Veri korumasıyla ilgili tüm sorularınız için bizimle iletişime geçebilirsiniz."
+      },
+      "1.5": {
+        "title": "1.7-Analiz araçları ve üçüncü taraf araçları",
+        "content": "Bu web sitesini ziyaret ettiğinizde, sörf davranışlarınız istatistiksel olarak değerlendirilebilir. Bu analiz programlarına ilişkin detaylı bilgiye aşağıdaki gizlilik politikasından ulaşabilirsiniz."
+      },
+      "2": {
+        "title": "2-Barındırma",
+        "content": "Web sitemizi Hostinger'de barındırıyoruz. (bundan böyle: Hostinger). Ayrıntılı bilgi için lütfen Hostinger'in gizlilik politikasına bakın."
+      },
+      "3": {
+        "title": "3-Genel Bilgiler ve Zorunlu Açıklamalar",
+        "content": ""
+      },
+      "3.1": {
+        "title": "3.1-Veri Koruma",
+        "content": "Bu sitenin operatörleri kişisel verilerinizin korunmasını büyük bir ciddiyetle ele almaktadır. Kişisel verilerinizi gizli tutuyor ve yasal veri koruma düzenlemeleri ile bu gizlilik politikasına uygun şekilde işliyoruz. Bu web sitesini kullandığınızda çeşitli kişisel veriler toplanır. Kişisel veriler, sizi kişisel olarak tanımlamak için kullanılabilecek verilerdir. Bu gizlilik politikası hangi verileri topladığımızı ve bunları ne amaçla kullandığımızı açıklar. Ayrıca bunun nasıl ve hangi amaçla yapıldığını da açıklar. İnternet üzerinden veri iletiminde (örneğin e-posta iletişimi) güvenlik açıkları olabileceğini belirtmek isteriz. Verilerin üçüncü şahıslar tarafından erişimine karşı tam koruma sağlanması mümkün değildir."
+      },
+      "3.2": {
+        "title": "3.2-Sorumlu Birim Hakkında Bilgi",
+        "content": "Bu web sitesindeki veri işlemeden sorumlu birim: Aja Massage Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Almanya Telefon: +49 177 502 40 89 E-posta: ajamassage@web.de Sorumlu birim, kişisel verilerin (isimler, e-posta adresleri vb.) işlenme amaç ve yöntemlerine tek başına veya diğerleriyle birlikte karar veren gerçek veya tüzel kişidir."
+      },
+      "3.3": {
+        "title": "3.3-Saklama Süresi",
+        "content": "Veri işleme amacı ortadan kalktığında, yasal saklama yükümlülükleri (vergi veya ticaret hukuku gibi) olmadığı sürece kişisel verileriniz silinecektir. Son durumda veriler bu nedenler ortadan kalktığında silinir."
+      },
+      "3.4": {
+        "title": "3.4-Veri Koruma Sorumlusu",
+        "content": "Şirketimiz bir veri koruma sorumlusu atamıştır: Kamil KOÇ Hans-Böckler-Straße 42, 40764 Langenfeld (Rheinland), Almanya Telefon: +49 177 502 40 89 E-posta: ajamassage@web.de"
+      },
+      "3.5": {
+        "title": "3.5-ABD ve Diğer Üçüncü Ülkelere Veri Aktarımı",
+        "content": "ABD veya veri koruma açısından yetersiz diğer ülkelerden araçlar kullanıyoruz. Bu araçlar aktif olduğunda kişisel verileriniz bu ülkelere aktarılabilir. Bu ülkelerde AB standartlarında veri koruma garanti edilemez. Örneğin ABD şirketleri, veri sahibinin hukuki itiraz hakkı olmadan verileri güvenlik birimleriyle paylaşmak zorundadır. ABD yetkililerinin verilerinizi izleme amacıyla işleme olasılığı vardır. Bu süreçler üzerinde kontrolümüz yoktur."
+      },
+      "3.6": {
+        "title": "3.6-Veri İşleme İzninin Geri Çekilmesi",
+        "content": "Birçok veri işleme işlemi yalnızca açık rızanızla mümkündür. Rızanızı istediğiniz zaman geri çekebilirsiniz. Geri çekme tarihine kadar yapılan işlemlerin yasallığı etkilenmez."
+      },
+      "3.7": {
+        "title": "3.7-Özel Durumlarda Veri Toplamaya ve Doğrudan Pazarlamaya İtiraz Hakkı (GDPR Madde 21)",
+        "content": "Veri işleme GDPR Madde 6(1)(e) veya (f) kapsamında yapılıyorsa, özel durumunuza dayalı olarak itiraz edebilirsiniz. Profilleme dahil bu durumlar için geçerlidir. İtiraz etmeniz halinde, zorlayıcı meşru sebeplerimiz olmadıkça verilerinizi işlemeyi durduracağız. Doğrudan pazarlama amaçlı veri işlemede her zaman itiraz hakkınız vardır."
+      },
+      "3.8": {
+        "title": "3.8-Yetkili Denetim Otoritesine Şikayet Hakkı",
+        "content": "GDPR ihlali durumunda, ikamet ettiğiniz AB üyesi ülkede denetim otoritesine şikayette bulunma hakkınız vardır. Bu hak diğer yasal yollara engel teşkil etmez."
+      },
+      "3.9": {
+        "title": "3.9-Veri Taşınabilirliği Hakkı",
+        "content": "Otomatik işlenen verilerinizi makine okunabilir formatta alma hakkınız vardır. Teknik olarak mümkünse başka bir sorumluya direkt aktarım talep edebilirsiniz."
+      },
+      "3.10": {
+        "title": "3.10-SSL/TLS Şifrelemesi",
+        "content": "Güvenlik için bu site SSL/TLS şifrelemesi kullanır. Tarayıcınızda 'https://' ve kilit simgesi görünür. Şifreleme aktifken verileriniz üçüncü kişilerce okunamaz."
+      },
+      "3.11": {
+        "title": "3.11-Web Sitesinde Şifreli Ödemeler",
+        "content": "Ücretli işlemlerde ödeme bilgileriniz sadece şifreli bağlantılar (SSL/TLS) üzerinden işlenir. Kredi kartı ve banka bilgileriniz güvenli şekilde iletilir."
+      },
+      "3.12": {
+        "title": "3.12-Bilgi Edinme, Silme ve Düzeltme",
+        "content": "Saklanan verileriniz hakkında ücretsiz bilgi edinebilir, düzeltme veya silme talep edebilirsiniz. İletişim bilgilerimiz üzerinden bize ulaşabilirsiniz."
+      },
+      "3.13": {
+        "title": "3.13-İşleme Kısıtlama Hakkı",
+        "content": "Verilerin doğruluğunu tartışıyorsanız, hukuka aykırı işlemde silme yerine kısıtlama talep edebilirsiniz. Verilere yasal savunma için ihtiyacınız varsa işlemeyi kısıtlayabiliriz."
+      },
+      "3.14": {
+        "title": "3.14-Reklam E-postalarına İtiraz",
+        "content": "İletişim bilgilerimizin istenmeyen reklam amaçlı kullanılması yasaktır. Bu tür kullanımlara karşı yasal işlem hakkımız saklıdır."
+      },
+      "4": {
+        "title": "4-Bu web sitesinde veri toplanması",
+        "content": ""
+      },
+      "4.1": {
+        "title": "4.1-Çerezler",
+        "content": "Web sitelerimizde 'çerez' adı verilen sistemler kullanılmaktadır. Çerezler küçük metin dosyalarıdır ve cihazınıza zarar vermez. Oturum çerezleri (geçici) ve kalıcı çerezler olarak ikiye ayrılırlar."
+      },
+      "4.1.1": {
+        "title": "4.1.1-Çerez Türleri",
+        "content": "Oturum çerezleri ziyaretiniz bittiğinde silinir. Kalıcı çerezler siz silene veya tarayıcı ayarlarınıza göre otomatik silinene kadar kalır. Üçüncü taraf çerezleri ise harici şirketler tarafından yerleştirilir."
+      },
+      "4.1.2": {
+        "title": "4.1.2-Yasal Dayanak",
+        "content": "Teknik gereklilik çerezleri GDPR Madde 6(1)(f) kapsamında işlenir. Diğer çerezler için açık onayınız (GDPR Madde 6(1)(a)) gereklidir. Onayınızı her zaman geri alabilirsiniz."
+      },
+      "4.1.3": {
+        "title": "4.1.3-Tarayıcı Ayarları",
+        "content": "Tarayıcınızdan çerez ayarlarını yönetebilirsiniz. Ancak bazı web site fonksiyonları çerezler devre dışı bırakıldığında çalışmayabilir."
+      },
+      "4.2": {
+        "title": "4.2-Sunucu Günlük Dosyaları",
+        "content": "Otomatik olarak toplanan veriler: Tarayıcı tipi, İşletim sistemi, Referer URL, Erişim zamanı, IP adresi. Bu veriler GDPR Madde 6(1)(f) kapsamında işlenir."
+      },
+      "4.3": {
+        "title": "4.3-İletişim Formu",
+        "content": "Form aracılığıyla gönderdiğiniz veriler (iletişim bilgileri, mesaj içeriği) GDPR Madde 6(1)(b) veya (f) kapsamında işlenir. Veriler talebiniz tamamlanana kadar saklanır."
+      },
+      "4.4": {
+        "title": "4.4-E-Posta/Telefon/Faks ile İletişim",
+        "content": "İletişim bilgileriniz ve talep içeriği GDPR Madde 6(1)(b) temelinde işlenir. Yasal saklama süreleri geçerli olmak üzere veriler işlem tamamlandıktan sonra silinir."
+      },
+      "5": {
+        "title": "5-Analiz Araçları ve Reklamcılık",
+        "content": ""
+      },
+      "5.1": {
+        "title": "5.1-Google Analytics",
+        "content": "Bu web sitesi Google Analytics web analiz hizmetini kullanmaktadır. Sağlayıcı: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, İrlanda.<br><br>Google Analytics kullanıcı davranışlarını analiz eder (sayfa görüntülemeleri, kalış süresi vb.). Veriler <a href='https://privacy.google.com/businesses/controllerterms/mccs/' target='_blank' rel='noopener'>AB standart sözleşmeleri</a> kapsamında ABD'ye aktarılır.<br><br>IP anonimleştirme aktif durumdadır. Veriler 14 ay sonra silinir: <a href='https://support.google.com/analytics/answer/7667196?hl=tr' target='_blank' rel='noopener'>Silme Detayları</a>.<br><br>Devre dışı bırakmak için: <a href='https://tools.google.com/dlpage/gaoptout?hl=tr' target='_blank' rel='noopener'>Google Opt-Out Eklentisi</a>"
+      },
+      "5.1.1": {
+        "title": "5.1.1-Demografik Özellikler",
+        "content": "Yaş, cinsiyet ve ilgi alanı verileri toplanır. Devre dışı bırakmak için: <a href='https://www.google.com/settings/ads' target='_blank' rel='noopener'>Reklam Ayarları</a>"
+      },
+      "5.2": {
+        "title": "5.2-Facebook Pikseli",
+        "content": "Dönüşümleri ölçmek için kullanılır. Sağlayıcı: Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, İrlanda.<br><br>Veri aktarım detayları: <a href='https://www.facebook.com/legal/EU_data_transfer_addendum' target='_blank' rel='noopener'>AB Veri Transfer Eki</a><br><br>Ortak sorumluluk sözleşmesi: <a href='https://www.facebook.com/legal/controller_addendum' target='_blank' rel='noopener'>Sözleşme Metni</a><br><br>Reklam ayarları: <a href='https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen' target='_blank' rel='noopener'>Özel Hedef Kitle Ayarları</a><br><br>Çıkış yapmak için: <a href='http://www.youronlinechoices.com/tr/' target='_blank' rel='noopener'>EDAA Tercih Yöneticisi</a>"
+      },
+      "6": {
+        "title": "6-Eklentiler ve Araçlar",
+        "content": ""
+      },
+      "6.1": {
+        "title": "6.1-Google Web Yazı Tipleri",
+        "content": "Bu site yazı tiplerinin tekdüze görüntülenmesi için Google Web Fonts kullanır. Detaylar: <a href='https://developers.google.com/fonts/faq' target='_blank' rel='noopener'>Google Web Fonts SSS</a><br><br>Gizlilik Politikası: <a href='https://policies.google.com/privacy?hl=tr' target='_blank' rel='noopener'>Google Gizlilik Politikası</a><br><br>Yasal dayanak: GDPR Madde 6(1)(f). Onayınızı her zaman geri alabilirsiniz."
+      },
+      "6.2": {
+        "title": "6.2-Google Haritalar",
+        "content": "Harita hizmeti sağlayıcısı: Google Ireland Limited, Dublin 4, İrlanda.<br><br>Veri aktarım detayları: <a href='https://privacy.google.com/businesses/gdprcontrollerterms/' target='_blank' rel='noopener'>GDPR Şartları</a> ve <a href='https://privacy.google.com/businesses/gdprcontrollerterms/sccs/' target='_blank' rel='noopener'>SCC'ler</a><br><br>Gizlilik Politikası: <a href='https://policies.google.com/privacy?hl=tr' target='_blank' rel='noopener'>Google Gizlilik Politikası</a><br><br>Yasal dayanak: GDPR Madde 6(1)(f). Onay geri alınabilir."
+      },
+      "7": {
+        "title": "7-E-Ticaret ve Ödeme Sağlayıcıları",
+        "content": ""
+      },
+      "7.1": {
+        "title": "7.1-Veri İşleme (Müşteri ve Sözleşme Verileri)",
+        "content": "Kişisel verileri yalnızca sözleşme ilişkisinin kurulması veya değiştirilmesi için gerekli olduğunda işliyoruz (envanter verileri). Bu işlem GDPR Madde 6(1)(b) kapsamında gerçekleştirilir. Kullanım verileri yalnızca hizmetin sağlanması veya faturalandırma için gerektiğinde toplanır. Müşteri verileri iş ilişkisi sona erdikten sonra silinir. Yasal saklama süreleri geçerliliğini korur."
+      },
+      "7.2": {
+        "title": "7.2-Veri Aktarımı ve Üçüncü Taraflar",
+        "content": "Mal teslimatı veya ödeme işlemleri için yalnızca gerekli veriler üçüncü taraflarla (kargo firmaları, bankalar) paylaşılır. Reklam amaçlı veri paylaşımı ancak açık onayınızla yapılır. Tüm veri aktarımları GDPR Madde 6(1)(b) kapsamında sözleşme yükümlülüklerinin yerine getirilmesi amacıyla gerçekleşir."
+      }
+    }
+  },
+  "booking_system_disabled": "Randevu sistemi şu anda kapalıdır. Lütfen daha sonra tekrar deneyiniz veya bizimle iletişime geçiniz.",
+  "close": "Kapat",
+  "company_name": "Aja Massage",
+  "all_rights_reserved": "Tüm hakları saklıdır",
+  "copyright": "© {{year}} {{company}}. Tüm hakları saklıdır",
+  "accessibility_options": "Erişilebilirlik Seçenekleri",
+  "increase_font_size": "Yazı Boyutunu Büyüt",
+  "decrease_font_size": "Yazı Boyutunu Küçült",
+  "high_contrast": "Yüksek Kontrast",
+  "screen_reader": "Ekran Okuyucu",
+  "skip_to_content": "İçeriğe Atla",
+  "keyboard_navigation": "Klavye Navigasyonu",
+  "reduce_motion": "Animasyonları Azalt",
+  "search": "Ara",
+  "search_placeholder": "Hizmet veya tedavi ara...",
+  "no_results_found": "Sonuç bulunamadı.",
+  "error_cancel_too_late": "Randevunuza 24 saatten az kaldığı için iptal işlemi gerçekleştirilemez.",
+  "admin": {
+    "siteSettings": {
+      "title": "Site Ayarları",
+      "general": "Genel Ayarlar",
+      "aboutUs": "Hakkımızda Sayfası",
+      "termsAndConditions": "Şartlar ve Koşullar Sayfası",
+      "privacyPolicy": "Gizlilik Politikası Sayfası",
+      "siteName": "Site Adı",
+      "logoUrl": "Logo URL",
+      "faviconUrl": "Favicon URL",
+      "contactEmail": "İletişim E-postası",
+      "contactPhone": "İletişim Telefonu",
+      "address": "Adres",
+      "saveGeneralSettings": "Genel Ayarları Kaydet",
+      "editAboutUs": "Hakkımızda Sayfasını Düzenle",
+      "aboutUsContent": "Hakkımızda İçeriği",
+      "saveAboutUs": "Hakkımızda Sayfasını Kaydet",
+      "editTermsAndConditions": "Şartlar ve Koşullar Sayfasını Düzenle",
+      "termsAndConditionsContent": "Şartlar ve Koşullar İçeriği",
+      "saveTermsAndConditions": "Şartlar ve Koşullar Sayfasını Kaydet",
+      "editPrivacyPolicy": "Gizlilik Politikası Sayfasını Düzenle",
+      "privacyPolicyContent": "Gizlilik Politikası İçeriği",
+      "savePrivacyPolicy": "Gizlilik Politikası Sayfasını Kaydet",
+      "loadError": "Ayarlar yüklenirken hata oluştu.",
+      "generalSettingsSaved": "Genel ayarlar başarıyla kaydedildi.",
+      "generalSettingsSaveError": "Genel ayarlar kaydedilirken hata oluştu.",
+      "aboutUsSaved": "Hakkımızda sayfası başarıyla kaydedildi.",
+      "aboutUsSaveError": "Hakkımızda sayfası kaydedilirken hata oluştu.",
+      "termsSaved": "Şartlar ve Koşullar sayfası başarıyla kaydedildi.",
+      "termsSaveError": "Şartlar ve Koşullar sayfası kaydedilirken hata oluştu.",
+      "privacyPolicySaved": "Gizlilik Politikası sayfası başarıyla kaydedildi.",
+      "privacyPolicySaveError": "Gizlilik Politikası sayfası kaydedilirken hata oluştu."
+    }
+  }
+}

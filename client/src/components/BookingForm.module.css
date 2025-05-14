@@ -1,0 +1,157 @@
+.container {
+  max-width: 100%;
+  padding: 8px;
+  background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+  border-radius: 0;
+  box-shadow: none;
+  overflow-y: auto;
+  margin: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 600px) {
+  .container {
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    margin: 0 auto;
+    height: auto;
+  }
+}
+
+.container h4 {
+  color: #0d47a1;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 600px) {
+  .container h4 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+  }
+}
+
+@media (min-width: 600px) {
+  .container h4 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+}
+
+.container .MuiTextField-root {
+  background-color: white;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+@media (min-width: 600px) {
+  .container .MuiTextField-root {
+    margin-bottom: 16px;
+  }
+}
+
+.container .MuiButton-root[type="submit"] {
+  padding: 8px;
+  font-size: 14px;
+  background-color: #0d47a1;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+@media (min-width: 600px) {
+  .container .MuiButton-root[type="submit"] {
+    padding: 12px;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 0;
+  }
+}
+
+.container .MuiButton-root[type="submit"]:hover {
+  background-color: #002171;
+  transform: translateY(-2px);
+}
+
+/* Takvim stilleri */
+.react-calendar {
+  border: none;
+  border-radius: 8px;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 2px;
+  width: 100% !important;
+  max-width: 100%;
+  font-size: 0.8rem;
+  margin-bottom: 10px;
+}
+
+@media (min-width: 600px) {
+  .react-calendar {
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+  }
+}
+
+.react-calendar__tile {
+  padding: 4px;
+  transition: background 0.2s;
+  font-size: 0.75rem;
+  height: 30px;
+}
+
+@media (min-width: 600px) {
+  .react-calendar__tile {
+    padding: 8px;
+    font-size: 0.85rem;
+    height: auto;
+  }
+}
+
+.react-calendar__tile--active {
+  background: #0d47a1 !important;
+  color: white !important;
+  border-radius: 8px;
+}
+
+.react-calendar__tile--disabled {
+  background-color: #f5f5f5;
+  color: #ccc;
+}
+
+/* Saat butonları */
+.hourButton {
+  border-radius: 20px;
+  padding: 6px 12px;
+  transition: all 0.2s ease;
+  font-size: 0.85rem;
+  margin: 3px;
+}
+
+@media (min-width: 600px) {
+  .hourButton {
+    padding: 8px 16px;
+    font-size: 1rem;
+    margin: 5px;
+  }
+}
+
+.hourButton:hover {
+  transform: scale(1.05);
+}
+
+.hourButton.MuiButton-contained {
+  background-color: #1976d2;
+}

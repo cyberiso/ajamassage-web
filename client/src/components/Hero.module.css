@@ -1,0 +1,7 @@
+/* src/components/Hero.module.css */
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background: url('massage-bg.jpg') no-repeat center/cover;
+    color: white;
+  }
